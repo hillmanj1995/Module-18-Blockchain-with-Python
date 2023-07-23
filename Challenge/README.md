@@ -6,6 +6,6 @@ The analyst is a fintech engineer who’s working at one of the five largest ban
 
 The user interface that shows the blockchain and verfication are below.  An image of the streamlit application showing that the blockchain was valid is also included.
 
-![Web_page.png]()
+![Web_page.png](https://github.com/hillmanj1995/Module-18-Blockchain-with-Python/blob/main/Challenge/Resources/Web_page.png)
 
-![Blockchain_is_valid.png]()
+![Blockchain_is_valid.png](https://github.com/hillmanj1995/Module-18-Blockchain-with-Python/blob/main/Challenge/Resources/Blockchain_is_valid.png)
